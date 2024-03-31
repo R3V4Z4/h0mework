@@ -1,0 +1,26 @@
+.mainDiv{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.input-container {
+  position: relative;
+  width: 300px;
+}
+
+.inputt {
+  padding: 8px;
+  width: 100%;
+  outline: none;
+}
+
+.icon {
+  position: absolute;
+  top: 9px;
+  right: 0px;
+}
+
+.iconTwo {
+  font-size: 29px;
+}
